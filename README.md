@@ -98,6 +98,8 @@ Note: A lot of the advice might be geared towards PhD, but people applying to MS
 
 ### Reaching out to prospective advisors
 This might be helpful for cold emailing advisors for internships and prospective collaborators even outside of the PhD application process.
+* [ACM article "_Connecting with Your Future Professor: A Practical Guide_" by Swati Rajwal and Avinash Kumar Pandey](https://dl.acm.org/doi/10.1145/3729506)
+* [ACM article "_The do's & don'ts of writing a research request email_" by Swati Rajwal and Avinash Kumar Pandey](https://dl.acm.org/doi/10.1145/3538535)
 * [Tweet thread for a template to emailing prospective advisors by Casey Fiesler](https://twitter.com/cfiesler/status/1301907707579031555?s=20)
 * [Contacting Potential PhD Advisors / Supervisors by Casey Fiesler](https://www.youtube.com/watch?v=XPM22bWTjRk&list=PLPA3GFqdHv_oL8gRg-44TmvMzjcFRMH4I&index=9)
 * [A note on cold-mailing professors by Yontan Bisk](https://yonatanbisk.com/emailing_professors.html)
